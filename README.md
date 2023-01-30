@@ -26,3 +26,11 @@ OBJECTIVES
 •	To increase efficiency of managing the pizza, online order.
 
 •	To manage the information of Pizza.
+
+										Pizza-Management-System
+
+NOTE - Create Database before use.
+
+
+Pizza Management System using Python | Management System in Python GUI
+
