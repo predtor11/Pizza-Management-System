@@ -29,8 +29,10 @@ OBJECTIVES
 
 										Pizza-Management-System
 
-NOTE - Create Database before use.
-
+NOTE 
+--->	Create Database before use.
+--->	Extract the files and code in a single forlder.
+--->	
 
 Pizza Management System using Python | Management System in Python GUI
 
