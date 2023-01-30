@@ -27,7 +27,7 @@ OBJECTIVES
 
 •	To manage the information of Pizza.
 
-										Pizza-Management-System
+								Pizza-Management-System
 
 NOTE 
 --->	Create Database before use.
